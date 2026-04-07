@@ -1,0 +1,8 @@
+{
+  "name": "interview-review",
+  "description": "面试复盘助手 - 自动分析面试录音转写文本，生成面试总复盘、问题总结和完整录音整理三份文档",
+  "version": "1.0.0",
+  "author": {
+    "name": "zouxy680"
+  }
+}
